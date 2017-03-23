@@ -1,3 +1,4 @@
+* instalación: http://expressjs.com/en/starter/installing.html
 npm init
 sudo npm install express --save
 
@@ -6,7 +7,8 @@ sudo npm install express --save
   (no sé si el sudo es necesario)
   (no deberías poner --save, tal vez otros no necesiten el nodemon o_o)
 
-(crea app.js!)
+
+(crea app.js!) http://expressjs.com/en/starter/hello-world.html
 
 * si instalaste nodemon:
   nodemon app.js
