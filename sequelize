@@ -1,0 +1,2 @@
+sudo npm install --save sequelize sequelize-cli mysql
+node_modules/.bin/sequelize init

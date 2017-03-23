@@ -1,0 +1,15 @@
+npm init
+sudo npm install express --save
+
+* si quieres que se actualice con cada cambio que hagas, deberías instalar nodemon
+  sudo npm install nodemon
+  (no sé si el sudo es necesario)
+  (no deberías poner --save, tal vez otros no necesiten el nodemon o_o)
+
+(crea app.js!)
+
+* si instalaste nodemon:
+  nodemon app.js
+
+* else
+  node app.js
